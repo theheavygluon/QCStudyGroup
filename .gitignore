@@ -127,3 +127,39 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Apple folder stuff
+.DS_Store
+
+*.swp
+*.map
+
+config.rst
+*.iml
+/.project
+/.pydevproject
+
+package-lock.json
+geckodriver.log
+*.iml
+
+# jetbrains IDE stuff
+*.iml
+.idea/
+
+# vscode IDE stuff
+*.code-workspace
+.history
+.vscode
+
+
+/.vs/QCStudyGroup/v16/TestStore/0/000.testlog
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/.vs/QCStudyGroup/v16/.suo
+.vs/VSWorkspaceState.json
+
+
+# temp files for animations
+*/temp_file.png
